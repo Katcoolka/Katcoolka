@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Katcoolka
-- 👀 I’m interested in backend.
+- 👀 I’m interested in backend and frontend.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... if you landed here, you already know how to reach me.
